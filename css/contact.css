@@ -1,0 +1,25 @@
+.contact{
+	height: 400px;
+}
+.contact .well{
+	box-shadow: none;
+}
+.contact .well h2{
+	margin-top: -50px;
+	margin-bottom: 0;
+	color: #333333;
+	font-family: "Raleway", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
+	font-size: 40px;
+}
+.jumbotron.contact{
+	height: 350px;
+	margin-top: 100px;
+}
+.contact .well h2 {
+    margin-top: -90px;
+}
+.contact i{
+	font-size: 30px;
+	color: #4D97C0;
+}
+

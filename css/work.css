@@ -1,0 +1,50 @@
+/* CSS Document */
+.work .well h2{
+	color: #333333;
+	font-size: 40px;
+	margin-top: -20px;
+	font-weight: 100 !important;
+	letter-spacing: 1px;
+	font-family: "Raleway", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
+}
+.panel {
+    box-shadow: none;
+    height: 400px;
+}
+.row{
+	margin-top: 100px;
+}
+.row .panel{
+	font-family: "Playfair Display", serif;
+}
+.row .panel .panel-heading h2 {
+    padding-bottom: 10px;
+    border-bottom: 1px solid #333;
+/*    width: 48%;*/
+}
+.row .panel .panel-heading h2 a{
+	color:#333;
+	font-size: 40px;
+	letter-spacing: -2px;
+}
+.row .panel .panel-heading h2 a:hover,.row .panel .panel-heading h2 a:focus{
+	color: #2C5F7B;
+}
+.work .col-md-4:nth-child(1){
+	 padding-right: 10%;
+}
+.row .panel .panel-body h3{
+	font-size: 30px;
+	font-family: "Raleway", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
+	margin-top: -30px;
+	margin-bottom: 30px;
+}
+
+.row .panel .panel-body div{
+	font-family: "Raleway", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
+	font-size: 16px;
+}
+hr{
+	width: 50%;
+	border-bottom: 1px solid #ADADAD;
+}

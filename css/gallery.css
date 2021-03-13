@@ -1,0 +1,80 @@
+/* CSS Document */
+.jumbotron.gallery{
+	height: 6750px;
+}
+.gallery div h2{
+	font-weight: 100;
+	font-size: 40px;
+	font-family: "Raleway", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
+}
+.gallery .row{
+	height: 300px;
+}
+.gallery .col-md-8 .row:nth-child(4){
+	height:340px;
+}
+.gallery .col-md-8 .row:nth-child(5){
+	height:200px;
+}
+.gallery .col-md-8 .row:nth-child(9){
+	height:270px;
+}
+.gallery .col-md-8 .row:nth-child(10){
+	height:220px;
+}
+.row.high{
+	height: 620px;
+}
+img[alt='2']{
+	margin-top: 50px; 
+}
+img[alt='5']{
+	margin-top: 40px;
+}
+img[alt='7']{
+	margin-top: 40px;
+}
+img[alt='8']{
+	margin-top: 8px;
+}
+img[alt='9']{
+	margin-top: 30px;
+}
+img[alt='10']{
+	margin-top: 70px;
+}
+img[alt='15']{
+	margin-top: 50px;
+}
+img[alt='16']{
+	margin-top: 20px;
+}
+img[alt='19']{
+	margin-top: 150px;
+}
+img[alt='20']{
+	margin-top: 100px;
+}
+img[alt='22']{
+	margin-top: 40px;
+}
+img[alt='23']{
+	margin-top: 70px;
+}
+img[alt='25']{
+	margin-top: 40px;
+}
+img[alt='27']{
+	margin-top: 80px;
+}
+img[alt='28']{
+	margin-top: 250px;
+}
+img[alt='31']{
+	margin-top: 50px ;
+}
+/*
+.gallery img.col-xs-12{
+	margin-top: 20px;
+}
+*/

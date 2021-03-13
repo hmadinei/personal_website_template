@@ -1,0 +1,32 @@
+/* CSS Document */
+.music .well{
+	box-shadow: none;
+}
+.music .well h2{
+	margin-top: -50px;
+	margin-bottom: 0;
+	color: #333333;
+	font-family: "Raleway", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
+	font-size: 40px;
+}
+.music .row a:nth-child(1):hover,.music .row a{
+	color:#4D97C0;
+}
+.music .row a:nth-last-child(1):hover{
+	color:#2c5f7b;
+}
+.music .row a h4{
+	font-weight: 100;
+	font-family: "Playfair Display", serif;
+}
+.music .row a p{
+	font-family: "Raleway", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
+}
+.music .row a i{
+	font-size: 30px;
+	font-weight: 600;
+}
+.music .col-md-offset-2 {
+    margin-top: -70px;
+}
+
